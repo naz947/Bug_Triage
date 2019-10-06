@@ -15,3 +15,8 @@ The Folder Baselines contains of the all the implementation of state of the art 
    * BOW with SVM
    * BOW with COS
    * BOW with SOFT
+* Graph SAGE
+   * Graph SAGE with GCN aggregator
+   * Graph SAGE with Maxpool aggregator
+* Text GCN
+   * Text GCN 
