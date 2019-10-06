@@ -20,3 +20,6 @@ The Folder Baselines contains of the all the implementation of state of the art 
    * Graph SAGE with Maxpool aggregator
 * Text GCN
    * Text GCN 
+
+Datasets that were used for the experiments are
+  * Google Chromium(http://bugtriage.mybluemix.net/)
