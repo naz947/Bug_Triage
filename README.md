@@ -13,8 +13,8 @@ The Folder Baselines contains of the all the implementation of state of the art 
    * DBRNNA 
    * BOW with MNB
    * BOW with SVM
-   * BOW with COS
-   * BOW with SOFT
+   * BOW with Cosine Similarity
+   * BOW with Softmax classifier
 * Graph SAGE
    * Graph SAGE with GCN aggregator
    * Graph SAGE with Maxpool aggregator
